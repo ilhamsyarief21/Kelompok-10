@@ -10,5 +10,6 @@ Program ini adalah contoh sederhana pembuatan file ARFF untuk dataset blog pemer
 4. Compile program dengan perintah berikut:
    ```bash
    javac DatasetBlogPemerintahan.java
+   ```bash
    java DatasetBlogPemerintahan
 
