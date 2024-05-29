@@ -1,18 +1,12 @@
-# Dataset Blog Pemerintahan Indonesia
-
-
-
-Dataset Blog Pemerintahan adalah kumpulan data yang berisi informasi tentang entri blog dari berbagai provinsi di Indonesia. Dataset ini mencakup informasi seperti judul blog, konten, tanggal publikasi, jumlah pengunjung, jumlah suka, jumlah komentar, dan tingkat popularitas. Tujuan dari dataset ini adalah untuk memberikan pemahaman tentang aktivitas blogging di berbagai provinsi di Indonesia.
+# Dataset Blog Pemerintahan
 
 ## Deskripsi
+Program ini adalah contoh sederhana pembuatan file ARFF untuk dataset blog pemerintahan berisi informasi seperti ID, judul, konten, tanggal, jumlah pengunjung, jumlah suka, jumlah komentar, dan tingkat popularitas. Program ditulis dalam bahasa Java.
 
-Dataset ini dibuat untuk tujuan analisis data dan penelitian terkait aktivitas blogging di Indonesia. Data dihasilkan dari entri blog yang dipublikasikan oleh pemerintah provinsi di Indonesia. Setiap entri blog memiliki atribut yang mencakup informasi tentang provinsi asal, sumber konten, tanggal publikasi, statistik pengunjung, suka, komentar, dan tingkat popularitas.
-
-## Cara Penggunaan
-
-1. **Kompilasi Kode**
-
-   Sebelum menjalankan program, pastikan Anda telah mengkompilasi file `DatasetBlogPemerintahan.java`. Gunakan perintah berikut di terminal:
-
+## Cara Compile dan Jalankan Program
+1. Pastikan Anda memiliki JDK (Java Development Kit) terpasang di komputer Anda. Jika belum, Anda dapat mengunduhnya dari [situs resmi Oracle](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html).
+2. Buka terminal atau command prompt.
+3. Pindah ke direktori tempat Anda menyimpan file `DatasetBlogPemerintahan.java`.
+4. Compile program dengan perintah berikut:
    ```bash
    javac DatasetBlogPemerintahan.java
