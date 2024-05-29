@@ -1,6 +1,6 @@
 # Dataset Blog Pemerintahan Indonesia
 
-![icon](https://github.com/username/repository/blob/master/icon.png)
+
 
 Dataset Blog Pemerintahan adalah kumpulan data yang berisi informasi tentang entri blog dari berbagai provinsi di Indonesia. Dataset ini mencakup informasi seperti judul blog, konten, tanggal publikasi, jumlah pengunjung, jumlah suka, jumlah komentar, dan tingkat popularitas. Tujuan dari dataset ini adalah untuk memberikan pemahaman tentang aktivitas blogging di berbagai provinsi di Indonesia.
 
